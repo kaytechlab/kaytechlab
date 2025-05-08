@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **kaytechlab/kaytechlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 # 👋 Hello, I'm Kayode Daniel
@@ -47,4 +46,4 @@ Welcome to my GitHub! I'm passionate about building reliable, scalable, and effi
 - Email: [kaytechlab@gmail.com](mailto:kaytechlab@gmail.com)
 
 
-> “Every great system starts with a small, working idea. Let’s build it.”
+“Every great system starts with a small, working idea. Let’s build it.”

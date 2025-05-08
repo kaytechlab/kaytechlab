@@ -1,7 +1,3 @@
-## Hi there 👋
-
-**kaytechlab/kaytechlab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hello, I'm Kayode Daniel
 
 ### 🧠 Learning Backend Development | 💻 Aspiring Full-Stack Developer  
